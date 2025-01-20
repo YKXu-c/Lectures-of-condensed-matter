@@ -8,3 +8,18 @@ Thanks to Professor also a YouTuber Maurits Haverkort for sharing his lecture on
 Thanks to Piers Coleman for his great book "Introduction many body physics": <https://www.physics.rutgers.edu/~coleman/>
 
 Thanks to GENTARO WATANABE and LIM LIH KING for their course "Graduate Solid State II" in ZheJiang University.
+
+Compile the R Markdown document to PDF or HTML to render the diagram.
+
+---
+
+### 4. **Using MathJax (Limited Support)**
+If you’re using a Markdown environment with MathJax support (e.g., GitHub with MathJax), you can try embedding the code directly:
+
+```markdown
+$$
+\feynmandiagram [horizontal=a to b] {
+  i1 [particle=\(e^-\)] -- [fermion] a -- [fermion] i2 [particle=\(e^-\)],
+  a -- [photon] b [particle=\(\gamma\)],
+};
+$$
