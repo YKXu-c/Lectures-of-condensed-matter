@@ -11,13 +11,3 @@ Thanks to GENTARO WATANABE and LIM LIH KING for their course "Graduate Solid Sta
 
 Compile the R Markdown document to PDF or HTML to render the diagram.
 
----
-
-
-
-$$
-\feynmandiagram [horizontal=a to b] {
-  i1 [particle=\(e^-\)] -- [fermion] a -- [fermion] i2 [particle=\(e^-\)],
-  a -- [photon] b [particle=\(\gamma\)],
-};
-$$
