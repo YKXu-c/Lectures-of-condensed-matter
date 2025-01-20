@@ -8,6 +8,3 @@ Thanks to Professor also a YouTuber Maurits Haverkort for sharing his lecture on
 Thanks to Piers Coleman for his great book "Introduction many body physics": <https://www.physics.rutgers.edu/~coleman/>
 
 Thanks to GENTARO WATANABE and LIM LIH KING for their course "Graduate Solid State II" in ZheJiang University.
-
-Compile the R Markdown document to PDF or HTML to render the diagram.
-
